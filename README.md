@@ -4,6 +4,14 @@ Hello, **I'm Muhammad Farhan**.
 
 This project is part of the selection test for the web programmer position at PT Internet Mulia Untuk Negeri (NEXA). The challenge is to create an admin website for transaction CRUD
 
+## Disclaimers :D
+I apologize for misunderstanding the instructions where the item data can be consumed using the provided API, but other data like customer data, etc., are not provided by the API. In the end, I created my own API to support this work, including creating my own item data API.
+
+Due to this misunderstanding, a considerable amount of time was wasted, so I apologize if the result is not optimal.
+
+So, please clone BE Project in this [repo](https://github.com/muhammadfarhan19/NEXA-admin-panel-be).
+Thank You..
+
 ## Technologies Used
 
 - **TypeScript**
